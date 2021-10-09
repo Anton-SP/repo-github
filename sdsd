@@ -1,0 +1,75 @@
+[33mcommit 283391a1c57217ac433aad7c3e37b6c79e38700b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: 0.0.1[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 1b388a3 4c43a38
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Sat Oct 9 21:34:55 2021 +0300
+
+    Merge branch 'branch-2-1'
+
+[33mcommit 1b388a33a582728ec02e26bdc344d57805a5af7a[m
+Merge: 59f0ea5 51b7794
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Fri Oct 8 22:57:55 2021 +0300
+
+    Merge branch 'branch-2' into branch-1
+
+[33mcommit 51b77945d1c98e8ccd208c8329f06d8b47742777[m
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Fri Oct 8 22:57:16 2021 +0300
+
+    add test2 file
+
+[33mcommit 4c43a38886437d62918184c95b7625441cbe7fbf[m
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Fri Oct 8 22:42:48 2021 +0300
+
+    add file-2-1
+
+[33mcommit 59f0ea564dc51c130481ee52af21383b5f56632b[m[33m ([m[1;31morigin/branch-1[m[33m)[m
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Fri Oct 8 22:34:40 2021 +0300
+
+    add file 1 and info
+
+[33mcommit e459bbc8f0f7cab124b23b506afb2fd28c546d00[m
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Thu Oct 7 21:56:07 2021 +0300
+
+    add master branch
+
+[33mcommit 64dcc85d4e0fec7867625ace78df875bc0e1496f[m
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Thu Oct 7 21:44:52 2021 +0300
+
+    swcond record readme
+
+[33mcommit 5a2d6701042f9345b10f38963a42b1025f1817dd[m
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Thu Oct 7 21:26:12 2021 +0300
+
+    Revert "add directory project1"
+    
+    This reverts commit 21ce7c75c56cdc4464c2030ded771c0e41682b33.
+
+[33mcommit 5d0a730cc456bba9c9ec45755537244862c53671[m
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Thu Oct 7 21:11:41 2021 +0300
+
+    create test file
+
+[33mcommit 21ce7c75c56cdc4464c2030ded771c0e41682b33[m
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Thu Oct 7 21:04:33 2021 +0300
+
+    add directory project1
+
+[33mcommit d58edb943933254dbbdbd49491603bca95f0c767[m
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Thu Oct 7 20:50:56 2021 +0300
+
+    add checkfile to ignore
+
+[33mcommit db889f64e4e0a1e82483fcd2abe6bf3d4ecc893f[m
+Author: PetrovAS <toha1988cool@gmail.com>
+Date:   Thu Oct 7 20:34:41 2021 +0300
+
+    ignore set up
